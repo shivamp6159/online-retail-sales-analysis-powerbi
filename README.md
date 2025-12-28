@@ -28,7 +28,8 @@ As a **Data Analyst**, I developed an **interactive Power BI dashboard** that pr
 
 ## 🌍 Page 2: Geographic Insights with Bubble Map
 
-![Geographic Sales Map](Sales Dashboard/geographic_sales_map.png)
+<div><strong><br /></strong></div><div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmX-E30l2d97bud2g00cl5gQgaizJWOYYeW6Bpj-CCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZ-KUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/s4150/Untitled_page-0002.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="powerbi Dashboard" border="0" data-original-height="2400" data-original-width="4150" height="370" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmX-E30l2d97bud2g00cl5gQgaizJWOYYeW6Bpj-CCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZ-KUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/w640-h370/Untitled_page-0002.jpg" title="PowerBi Dashboard" width="640" /></a></div><br /><strong><br /></strong></div>
+
 
 1. **Geographic Distribution**
    - Created a **world map visualization** with bubbles proportional to sales per country.
