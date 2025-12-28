@@ -1,101 +1,45 @@
-# online-retail-sales-analysis-powerbi
-Interactive Power BI dashboard analyzing global online retail sales trends, top customers, and geographic insights to support data-driven business decisions.
-📊 Global Online Retail Sales Insights Dashboard (Power BI)
-📌 Project Overview
+<h1 style="color: red;">Online Retail Shop PowerBI Dashboard</h1>
 
-The Global Online Retail Sales Insights Dashboard is an interactive Power BI project created to analyze global online retail sales data.
-This dashboard helps business stakeholders understand sales trends, customer behavior, and geographic performance to support data-driven decision-making.
 
-🎯 Business Objectives
+<h2 style="color: black;" onmouseover="this.style.color='green';" onmouseout="this.style.color='black';">
+Project Title: <strong>Global Sales Insights Dashboard</strong>
+</h2>
 
-Analyze overall sales trends over time
+<strong> Introduction: </strong> <br> 
+As a  Data Analyst  , I was tasked with creating an interactive Power BI dashboard that provides valuable insights into global sales trends. The goal was to empower business stakeholders with actionable information to enhance decisionmaking. Let me walk you through how I designed and implemented this project.
 
-Identify top-performing customers
+<hr>
 
-Compare country-wise sales performance
+ Page 1: Sales Trends and Top Performers 
+ <div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb-7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94-weNfenqDEuzYIKX8ZgFXkh-Tdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloI-pashIKRljuijPQpndC/s4150/Untitled_page-0001.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2400" data-original-width="4150" height="392" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb-7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94-weNfenqDEuzYIKX8ZgFXkh-Tdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloI-pashIKRljuijPQpndC/w640-h392/Untitled_page-0001.jpg" width="640" /></a></div><strong><br /></strong></div>
 
-Visualize geographic sales distribution
 
-Enable interactive exploration using filters
+1. Sales Trend Analysis:
+    Visualized the overall sales trend over time using line charts.
+    Identified growth patterns, seasonality, and anomalies.
 
-🛠 Tools & Technologies Used
+2. Top 10 Customers:
+    Highlighted valuable customers contributing significantly to retail shop sales.
+    Provided details such as total sales, quantity bought, and regions.
 
-Power BI – Dashboard development & visualization
+3. Top 10 Countries by Sales:
+    Designed a bar chart to highlight topperforming countries based on sales.
+    Excluded the United Kingdom due to its outlier status.
+    Used colorcoded bars for easy regional comparison.
 
-DAX – Measures and calculated metrics
+<hr>
 
-Microsoft Excel – Data cleaning & preprocessing
+ Page 2: Geographic Insights with Bubble Map
+<div><strong><br /></strong></div><div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmX-E30l2d97bud2g00cl5gQgaizJWOYYeW6Bpj-CCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZ-KUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/s4150/Untitled_page-0002.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="powerbi Dashboard" border="0" data-original-height="2400" data-original-width="4150" height="370" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmX-E30l2d97bud2g00cl5gQgaizJWOYYeW6Bpj-CCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZ-KUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/w640-h370/Untitled_page-0002.jpg" title="PowerBi Dashboard" width="640" /></a></div><br /><strong><br /></strong></div>
 
-Online Retail Dataset
+1. Geographic Distribution:
+    Created a world map with countrywise bubbles proportional to sales.
+    Bubbles displayed additional details such as total sales and quantity sold.
 
-📸 Dashboard Screenshots
-🔹 Sales Trends & Top Performers
+2. Interactivity and Filters:
+    Implemented dynamic features, adjusting bubble sizes and colors based on selected filters.
 
-Insights:
+<hr>
 
-Sales trend analysis using line charts
-
-Top 10 customers by total sales
-
-Top 10 countries by sales (UK excluded as an outlier)
-
-🌍 Geographic Sales Insights
-
-Insights:
-
-Bubble map showing country-wise sales distribution
-
-Bubble size represents total sales
-
-Interactive filters for dynamic analysis
-
-✨ Key Features
-
-Fully interactive Power BI dashboard
-
-Clear KPI-driven visual storytelling
-
-Dynamic filters and slicers
-
-Business-focused insights
-
-Clean and professional dashboard design
-
-📂 Dataset Information
-
-The dataset contains:
-
-Invoice details
-
-Customer information
-
-Country-wise sales
-
-Quantity and revenue metrics
-
-🚀 Business Impact
-
-This dashboard enables organizations to:
-
-Monitor sales performance effectively
-
-Identify high-value customers
-
-Discover profitable regions
-
-Detect trends and growth opportunities
-
-Make informed strategic decisions
-
-👤 Author
-
-Shivam Pawar
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
-
-📧 Email: shivamp6159@gmail.com
-
-🔗 GitHub: https://github.com/shivamp6159
-
-📜 License
-
-This project is licensed under the MIT License – free to use for learning and portfolio purposes.
+<h3>Conclusion: </h3>
+The “Global Online Retail Sales Insights Dashboard” provided a holistic view of the sales landscape. Stakeholders could explore trends, identify key customers, and pinpoint growth areas globally. As a freelancer, I take pride in delivering a powerful tool that empowers datadriven decisions. 🌐💼
