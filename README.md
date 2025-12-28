@@ -1,28 +1,24 @@
 # online-retail-sales-analysis-powerbi
 Interactive Power BI dashboard analyzing global online retail sales trends, top customers, and geographic insights to support data-driven business decisions.
-# 📊 Global Online Retail Sales Insights Dashboard (Power BI)
-
 📊 Global Online Retail Sales Insights Dashboard (Power BI)
 📌 Project Overview
 
-The Global Online Retail Sales Insights Dashboard is an interactive Power BI project designed to analyze global online retail sales data and convert raw data into meaningful business insights.
-This dashboard helps stakeholders understand sales trends, customer performance, and geographic distribution to support data-driven decision-making.
-
-This project showcases strong skills in data analysis, business intelligence, and data visualization.
+The Global Online Retail Sales Insights Dashboard is an interactive Power BI project created to analyze global online retail sales data.
+This dashboard helps business stakeholders understand sales trends, customer behavior, and geographic performance to support data-driven decision-making.
 
 🎯 Business Objectives
 
-Analyze overall sales performance over time
+Analyze overall sales trends over time
 
-Identify top customers contributing to revenue
+Identify top-performing customers
 
 Compare country-wise sales performance
 
-Visualize global sales distribution using maps
+Visualize geographic sales distribution
 
-Enable interactive exploration of sales data
+Enable interactive exploration using filters
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies Used
 
 Power BI – Dashboard development & visualization
 
@@ -30,74 +26,66 @@ DAX – Measures and calculated metrics
 
 Microsoft Excel – Data cleaning & preprocessing
 
-Online Retail Dataset – Transactional sales data
+Online Retail Dataset
 
-📈 Dashboard Overview
-🔹 Page 1: Sales Trends & Top Performers
+📸 Dashboard Screenshots
+🔹 Sales Trends & Top Performers
 
-Key Insights:
+Insights:
 
-Line charts to analyze overall sales trends, growth patterns, and seasonality
+Sales trend analysis using line charts
 
-Identification of Top 10 Customers based on total sales and quantity
+Top 10 customers by total sales
 
-Top 10 Countries by Sales using bar charts
+Top 10 countries by sales (UK excluded as an outlier)
 
-United Kingdom excluded due to outlier behavior for better comparison
+🌍 Geographic Sales Insights
 
-🌍 Page 2: Geographic Sales Insights
+Insights:
 
-Key Insights:
+Bubble map showing country-wise sales distribution
 
-Bubble map displaying country-wise sales performance
+Bubble size represents total sales
 
-Bubble size represents total sales volume
-
-Interactive tooltips showing sales and quantity details
-
-Dynamic filters for better data exploration
+Interactive filters for dynamic analysis
 
 ✨ Key Features
 
 Fully interactive Power BI dashboard
 
-Clean and business-focused visual design
+Clear KPI-driven visual storytelling
 
-Geographic and customer-level insights
+Dynamic filters and slicers
 
-Dynamic filters and drill-down capabilities
+Business-focused insights
 
-Optimized for strategic decision-making
+Clean and professional dashboard design
 
 📂 Dataset Information
 
-Source: Online Retail Dataset
+The dataset contains:
 
-Includes:
+Invoice details
 
-Invoice numbers
+Customer information
 
-Customer IDs
+Country-wise sales
 
-Country details
-
-Quantity sold
-
-Revenue metrics
+Quantity and revenue metrics
 
 🚀 Business Impact
 
-This dashboard enables businesses to:
+This dashboard enables organizations to:
 
-Track sales performance effectively
+Monitor sales performance effectively
 
 Identify high-value customers
 
-Discover profitable regions and markets
+Discover profitable regions
 
-Detect sales trends and growth opportunities
+Detect trends and growth opportunities
 
-Make informed, data-driven decisions
+Make informed strategic decisions
 
 👤 Author
 
@@ -110,4 +98,4 @@ Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
 📜 License
 
-This project is licensed under the MIT License — free to use for learning and portfolio purposes.
+This project is licensed under the MIT License – free to use for learning and portfolio purposes.
