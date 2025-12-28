@@ -70,7 +70,7 @@ The dashboard allows stakeholders to:
 ## 👤 Author
 **Shivam Pawar** – Aspiring Data Analyst | Power BI | SQL | Excel | Python  
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/shivampawar)  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shivampawar)  
 📧 Email: shivamp6159@gmail.com  
 🔗 GitHub: https://github.com/shivamp6159  
 
