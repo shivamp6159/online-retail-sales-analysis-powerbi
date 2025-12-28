@@ -9,7 +9,7 @@ As a **Data Analyst**, I developed an **interactive Power BI dashboard** that pr
 
 ## 📊 Page 1: Sales Trends and Top Performers
 
-![Sales Trends Dashboard](Sales Dashboard/sales_trends_dashboard.png)
+ <div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb-7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94-weNfenqDEuzYIKX8ZgFXkh-Tdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloI-pashIKRljuijPQpndC/s4150/Untitled_page-0001.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2400" data-original-width="4150" height="392" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfb-7xB7QwEhk8uVcsZyIVlYfcVeGR9lrGRSgDz7shRpZI94-weNfenqDEuzYIKX8ZgFXkh-Tdwdjw9TX123qABfevTKIB_bDNP8rz34_kOcTZEge5q9C9Txnaionsb_sf2vK95zSCQAC981meJMsjLypxINZyB7CKjfVM0lloI-pashIKRljuijPQpndC/w640-h392/Untitled_page-0001.jpg" width="640" /></a></div><strong><br /></strong></div>
 
 1. **Sales Trend Analysis**
    - Visualized overall sales trends over time using line charts.
